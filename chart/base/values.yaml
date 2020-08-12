@@ -40,7 +40,7 @@ vcsInfo:
   repoUrl: ""
   branch: ""
 
-partOf: "rail-backend-dev"
+partOf: "backend"
 
 connectsTo: "mysql"
 
