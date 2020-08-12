@@ -12,4 +12,4 @@ pluginManagement {
 		}
 	}
 }
-rootProject.name = 'railTicketBookingApi'
+rootProject.name = 'book-api'
